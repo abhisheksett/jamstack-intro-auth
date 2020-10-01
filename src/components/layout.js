@@ -6,7 +6,7 @@ import './layout.css';
 
 const Layout = ({ children }) => {
     return (
-        <IdentityContextProvider url="https://sett-jamstack-intro.netlify.com">
+        <IdentityContextProvider url="https://sett-jamstack-intro.netlify.app">
             <header>
                 <Link to="/">JAMStack App</Link>
             </header>
