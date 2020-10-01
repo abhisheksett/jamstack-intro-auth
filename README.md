@@ -8,3 +8,5 @@ This project is basic intro for JAMStack authentication using netlify
 - For authentication, Netlify identity is used
 
 To run, use <i>netlify dev</i>
+
+App is hosted at: https://sett-jamstack-intro.netlify.app/ 
